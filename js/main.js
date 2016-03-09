@@ -184,7 +184,7 @@
 
   // ------
 
-  requestText( '../shader/post.frag', function( _frag ) {
+  requestText( 'shader/post.frag', function( _frag ) {
     let vert = 'attribute vec2 p; void main() { gl_Position = vec4( p, 0.0, 1.0 ); }';
     postProgram = glCat.createProgram( vert, _frag );
   } );
