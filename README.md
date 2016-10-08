@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160303 "Random Unicode Generator"  
+# Everyday One Motion - 20160303  
+
+"Random Unicode Generator"  
 
 ![](20160303.gif)  
 
 JavaScript, Canvas, WebGL  
 
 [Everyday One Motion](http://motions.work/motion/132)  
-[Demo Page](http://fms-cat.github.io/eom_20160303)  
+[Demo Page](http://fms-cat-eom.github.io/20160303)  
 
 ## Random Unicode Generator  
 
